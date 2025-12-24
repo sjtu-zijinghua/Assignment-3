@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Research Integrity and Writing Practices}
+\author{Jiahui Zhang}
+\date{December 2025}
+
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage{amsmath}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+This document serves as Assignment 3 for the course \emph{Academic Writing,Norms and Ethics}. The rest of this document follows a standard {\LaTeX} article format.
+
+\begin{figure}[h!]
+\centering
+\includegraphics[scale=0.6]{universe}
+\caption{The Universe}
+\label{fig:universe}
+\end{figure}
+
+\section{Conclusion}
+``The good thing about science is that it's true whether or not you believe in it.'' \citep{tyson2017astrophysics}
+
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}
